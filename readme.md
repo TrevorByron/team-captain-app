@@ -7,12 +7,14 @@
  * Is captain of the Spartans Soccer Team
  * Is in charge collecting money from each player to pay league fees
  * Is in charge making sure teammates know game schedules and keeping track of who is available to play or not
+
 ## Person two
  * Jill Uhler
  * Age = 28
  * Lives in Austin, from Houston originally
  * Plays Left Forward
  * Travels a lot for work but plays for the Spartans most every weekend
+
 ## Person three
  * Derick Web
  * Age - 32
